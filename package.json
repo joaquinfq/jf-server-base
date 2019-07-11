@@ -1,12 +1,12 @@
 {
-    "name"        : "jf-server-base",
-    "version"     : "0.0.1",
-    "description" : "A very simple wrapper for node webserver",
-    "author"      : "Joaquín Fernández",
-    "license"     : "MIT",
-    "homepage"    : "http://www.joaquinfernandez.net",
-    "repository"  : {
-        "type" : "git",
-        "url"  : "https://github.com/joaquinfq/jf-server-base"
+    "name": "@jf/server-base",
+    "version": "1.0.0",
+    "description": "A very simple wrapper for node webserver",
+    "author": "Joaquín Fernández",
+    "license": "MIT",
+    "homepage": "http://www.joaquinfernandez.net",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/joaquinfq/jf-server-base"
     }
 }
